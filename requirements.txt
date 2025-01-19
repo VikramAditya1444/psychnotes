@@ -1,0 +1,10 @@
+streamlit
+openai-whisper
+google-generativeai
+dnspython
+pymongo
+streamlit-authenticator
+pymongo 
+bcrypt
+certifi
+extra-streamlit-components
