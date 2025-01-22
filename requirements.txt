@@ -8,3 +8,4 @@ pymongo
 bcrypt
 certifi
 extra-streamlit-components
+imageio[ffmpeg]
